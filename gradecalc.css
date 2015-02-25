@@ -1,0 +1,7 @@
+#gradecalc_formcalc_accordion .panel-default > .panel-heading{
+	cursor: pointer !important;
+}
+
+#gradecalc_accordion .modal-dialog-center {
+    margin-top: 20%;
+}
